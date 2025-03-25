@@ -1,0 +1,8 @@
+{
+  "name": "Rust Dev Container",
+  "image": "rust:latest",
+  "postCreateCommand": "rustup update",
+  "extensions": [
+    "rust-lang.rust-analyzer"
+  ]
+}
