@@ -1,7 +1,6 @@
 /* Übung 1.1 – println! Grundlagen  
-   TODO: Ergänze deinen Namen im println!-Makro
+   TODO: Gib einen beliebigen Text in der Konsole aus.
 */
 
 pub fn run() {
-    println!("Servus, _______!"); // <-- Hier deinen Namen einfügen ;)
 }

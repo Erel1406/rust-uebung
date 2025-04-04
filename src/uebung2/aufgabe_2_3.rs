@@ -1,9 +1,11 @@
-/* Übung 2.3 – Vektor erstellen und iterieren
-   TODO: Erstelle einen Vektor mit 3 Zahlen und gib sie mit einer Schleife aus.
+/*
+    Übung 2.3 – Bedingungen mit if
+
+    TODO: Lege eine Variable `gesamtpreis` an.
+    TODO: Wenn der Gesamtpreis über 100€ liegt, gib aus: "Du bekommst 10% Rabatt!"
+    TODO: Wenn der Gesamtpreis über 50€ liegt, gib aus: "Du bekommst 5% Rabatt!"
+    TODO: Ansonsten: "Kein Rabatt verfügbar."
 */
 
 pub fn run() {
-    // TODO: Erstelle einen Vektor mit den Zahlen 10, 20, 30
-
-    // TODO: Iteriere über den Vektor und gib jede Zahl aus
 }

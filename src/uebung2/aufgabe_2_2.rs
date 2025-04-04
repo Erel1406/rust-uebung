@@ -1,13 +1,10 @@
-/* Übung 2.2 – loop & break
-   TODO: Erstelle eine Schleife, die von 1 bis 5 zählt und dann abbricht.
+/*
+    Übung 2.2 – Rechnen & Formatieren
+
+    TODO: Lege zwei Variablen `preis_pro_stück` (f64) und `anzahl` (i32) an.
+    TODO: Berechne den Gesamtpreis (preis_pro_stück * anzahl).
+    TODO: Gib eine formatierte Ausgabe aus wie: "Du kaufst 3 Artikel für je 4.99€. Gesamtpreis: 14.97€"
 */
 
 pub fn run() {
-    let mut zahl = 1;
-
-    loop {
-        // TODO: Gib die aktuelle Zahl aus
-        // TODO: Erhöhe die Zahl um 1
-        // TODO: Breche ab, wenn zahl > 5
-    }
 }

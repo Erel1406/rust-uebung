@@ -17,3 +17,5 @@ Der Befehl dafür ist:
 
 ```bash
 cargo run
+## Direkt öffnen
+

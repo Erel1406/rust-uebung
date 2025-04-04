@@ -1,10 +1,6 @@
-/* Übung 1.2 – Addiere zwei Zahlen  
-   TODO: Berechne die Summe von a und b und gib sie mit println! aus
+/* Übung 1.2 – Variablen und Strings
+TODO: Erstelle eine Variable mit deinem Namen und gib sie aus.
 */
 
 pub fn run() {
-    let a = 5;
-    let b = 13;
-
-    println!("Die Summe von a und b ist: {}", ______); // <-- Ergänze den Ausdruck
 }
