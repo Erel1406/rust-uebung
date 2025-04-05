@@ -3,6 +3,7 @@ pub mod aufgabe_3_2;
 pub mod aufgabe_3_3;
 pub mod aufgabe_3_4;
 
+#[allow(dead_code)]
 pub fn start() {
     println!("Grüß dich von Übung 3!");
 

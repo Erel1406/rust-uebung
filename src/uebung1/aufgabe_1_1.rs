@@ -3,4 +3,6 @@
 */
 
 pub fn run() {
+
+   println! ("hallo rust!")
 }
