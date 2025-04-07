@@ -1,7 +1,8 @@
 # 🦀🦀 WWI24SEA – Rust Übung🦀🦀
 
-Diese Übungsreihe wurde im Rahmen des Moduls *Programmierkonzepte* erstellt.  
-Ziel ist es, erste praktische Erfahrungen mit der Programmiersprache **Rust** zu sammeln.
+Diese Übungen wurden im Rahmen des Moduls *Programmierkonzepte* erstellt.  
+Ziel ist es, praktische Erfahrungen mit der Programmiersprache **Rust** zu sammeln
+und die Sprache kennenzulernen.
 
 ---
 
@@ -18,12 +19,12 @@ Ziel ist es, erste praktische Erfahrungen mit der Programmiersprache **Rust** zu
    cargo run
 
 
-3. **Aufgaben auswählen**
+3. **Aufgaben auswählen (zum ausführen)**
 Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginnen. 
 
 ## Themenübersicht
 
-🦀 ### **Übung 1 – Rust Basics**
+🦀 **Übung 1 – Rust Basics**
 
 1.1 println! Grundlagen
 
@@ -33,7 +34,7 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 1.4 Bedingungen mit if
 
-🦀 ### **Übung 2 – Daten & Schleifen**
+🦀 **Übung 2 – Daten & Schleifen**
 
 2.1 Variablen, Mutabilität & Typen
 
@@ -43,7 +44,7 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 2.4 match-Anweisung
 
-🦀 ### **Übung 3 – Bedingungen & Ownership**
+🦀 **Übung 3 – Bedingungen & Ownership**
 
 3.1 Funktion mit Parameter & Rückgabewert
 
@@ -53,13 +54,13 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 3.4 loop & break
 
-🦀 ### **Übung 4 – Referenzen**
+🦀 **Übung 4 – Referenzen**
 
 4.1 Borrowing & Referenzen
 
 4.2 Zwei Referenzen vergleichen & Rückgabe
 
-🦀 ### **Übung 5 – Structs**
+🦀 **Übung 5 – Structs**
 
 5.1 Struct mit Referenzfeld & Methode
 
