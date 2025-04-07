@@ -5,7 +5,7 @@ Ziel ist es, erste praktische Erfahrungen mit der Programmiersprache **Rust** zu
 
 ---
 
-## 🦀 Einführung – GitHub Codespaces nutzen
+##  Einführung – GitHub Codespaces nutzen
 
 1. **Öffne das Projekt direkt in GitHub Codespaces**  
    [Rust Übung in Codespaces öffnen](https://github.com/codespaces/new?repo=Erel1406/rust-uebung)
@@ -23,7 +23,7 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 ## Themenübersicht
 
-🦀 **Übung 1 – Rust Basics
+🦀 **Übung 1 – Rust Basics**
 1.1 println! Grundlagen
 
 1.2 Variablen & Mutabilität
@@ -32,7 +32,7 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 1.4 Benutzereingabe
 
-🦀 **Übung 2 – Daten & Schleifen
+🦀 **Übung 2 – Daten & Schleifen**
 2.1 if / else
 
 2.2 match
@@ -41,7 +41,7 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 2.4 Bewertung per Eingabe (Match mit Text)
 
-🦀 **Übung 3 – Bedingungen & Ownership
+🦀 **Übung 3 – Bedingungen & Ownership**
 3.1 Funktionen mit Parametern
 
 3.2 Rückgabewerte
@@ -50,12 +50,12 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 3.4 Borrowing
 
-🦀 **Übung 4 – Referenzen
+🦀 **Übung 4 – Referenzen**
 4.1 Option<T>
 
 4.2 Match mit Option
 
-🦀 **Übung 5 – Structs
+🦀 **Übung 5 – Structs**
 5.1 Structs definieren
 
 5.2 Structs in Funktionen verwenden
@@ -69,6 +69,6 @@ Wählt die Aufgaben anhand der Nummern im Menü aus (z. B. 2.3 (Startet die 2.
  ## Rust Cheatsheet / Doku
  [Rust Handbook](https://doc.rust-lang.org/book/)
 
-Viel Erfolg – und viel Spaß beim Coden! 🦀🦀 
+🦀🦀 Viel Erfolg – und viel Spaß beim Coden! :) 🦀🦀 
 
 
