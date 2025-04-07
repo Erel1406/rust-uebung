@@ -1,11 +1,8 @@
 /* Übung 3.2 – Durchschnitt berechnen
    TODO: Berechne den Durchschnitt aller Werte im Vektor und gib ihn aus.
+  vec: 23, 49, 12, 39, 82
 */
 
 pub fn run() {
-   // let werte = vec![10, 20, 30, 40, 50];
-    
-    // TODO: Summe berechnen
-    // TODO: Durchschnitt (f64!) berechnen
    
 }

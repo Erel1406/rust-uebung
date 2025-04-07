@@ -3,13 +3,6 @@
 */
 
 pub fn run() {
-    // TODO: Zwei Zahlen definieren
- 
-
-    // TODO: Summe berechnen
-   
-
-    // TODO: Ergebnis ausgeben
     
 }
 

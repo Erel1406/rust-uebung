@@ -3,11 +3,6 @@
 */
 
 pub fn run() {
-    // TODO: Definiere das Alter
-    
 
-    // TODO: Mit if überprüfen
-
-    
 }
 
