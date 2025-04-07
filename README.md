@@ -23,7 +23,7 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 ## Themenübersicht
 
-🦀 **Übung 1 – Rust Basics**
+🦀 ### **Übung 1 – Rust Basics**
 
 1.1 println! Grundlagen
 
@@ -31,19 +31,19 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 1.3 Rechnen mit Zahlen
 
-1.4  Bedingungen mit if
+1.4 Bedingungen mit if
 
-🦀 **Übung 2 – Daten & Schleifen**
+🦀 ### **Übung 2 – Daten & Schleifen**
 
 2.1 Variablen, Mutabilität & Typen
 
 2.2 Rechnen & Formatieren
 
-2.3  Bedingungen mit if
+2.3 for-Schleifen & Bedingungen
 
-2.4  match-Anweisung
+2.4 match-Anweisung
 
-🦀 **Übung 3 – Bedingungen & Ownership**
+🦀 ### **Übung 3 – Bedingungen & Ownership**
 
 3.1 Funktion mit Parameter & Rückgabewert
 
@@ -53,24 +53,25 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 
 3.4 loop & break
 
-🦀 **Übung 4 – Referenzen**
+🦀 ### **Übung 4 – Referenzen**
 
 4.1 Borrowing & Referenzen
 
 4.2 Zwei Referenzen vergleichen & Rückgabe
 
-🦀 **Übung 5 – Structs**
+🦀 ### **Übung 5 – Structs**
+
 5.1 Struct mit Referenzfeld & Methode
 
 5.2 Zwei Structs vergleichen
 
-🦀🦀 Hinweise für Kommilitonen
+🦀🦀 **Hinweise für Kommilitonen**
 Alle Aufgaben starten im Terminal mit cargo run.
 
 Wählt die Aufgaben anhand der Nummern im Menü aus (z. B. 2.3 (Startet die 2. Übung Aufgabe 3)).
 
 
- ## Rust Cheatsheet / Doku
+ ## Hilfestellungen zum nachlesen:
  [Rust Handbook](https://doc.rust-lang.org/book/)
 
 🦀🦀 Viel Erfolg – und viel Spaß beim Coden! :) 🦀🦀 
