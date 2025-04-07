@@ -67,13 +67,16 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 5.2 Zwei Structs vergleichen
 
 🦀🦀 **Hinweise für Kommilitonen**
+
 Alle Aufgaben starten im Terminal mit cargo run.
 
 Wählt die Aufgaben anhand der Nummern im Menü aus (z. B. 2.3 (Startet die 2. Übung Aufgabe 3)).
 
 
  ## Hilfestellungen zum nachlesen:
+ 
  [Rust Handbook](https://doc.rust-lang.org/book/)
+
 
 🦀🦀 Viel Erfolg – und viel Spaß beim Coden! :) 🦀🦀 
 
