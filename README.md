@@ -24,41 +24,45 @@ Es erscheint ein Menü. Wähle z. B. 1.1, um mit der ersten Aufgabe zu beginne
 ## Themenübersicht
 
 🦀 **Übung 1 – Rust Basics**
+
 1.1 println! Grundlagen
 
-1.2 Variablen & Mutabilität
+1.2 Variablen und Strings
 
-1.3 Typkonvertierung
+1.3 Rechnen mit Zahlen
 
-1.4 Benutzereingabe
+1.4  Bedingungen mit if
 
 🦀 **Übung 2 – Daten & Schleifen**
-2.1 if / else
 
-2.2 match
+2.1 Variablen, Mutabilität & Typen
 
-2.3 loop, for, while
+2.2 Rechnen & Formatieren
 
-2.4 Bewertung per Eingabe (Match mit Text)
+2.3  Bedingungen mit if
+
+2.4  match-Anweisung
 
 🦀 **Übung 3 – Bedingungen & Ownership**
-3.1 Funktionen mit Parametern
 
-3.2 Rückgabewerte
+3.1 Funktion mit Parameter & Rückgabewert
 
-3.3 Ownership
+3.2 Durchschnitt berechnen
 
-3.4 Borrowing
+3.3 while-Schleife & einfache Logik
+
+3.4 loop & break
 
 🦀 **Übung 4 – Referenzen**
-4.1 Option<T>
 
-4.2 Match mit Option
+4.1 Borrowing & Referenzen
+
+4.2 Zwei Referenzen vergleichen & Rückgabe
 
 🦀 **Übung 5 – Structs**
-5.1 Structs definieren
+5.1 Struct mit Referenzfeld & Methode
 
-5.2 Structs in Funktionen verwenden
+5.2 Zwei Structs vergleichen
 
 🦀🦀 Hinweise für Kommilitonen
 Alle Aufgaben starten im Terminal mit cargo run.
